@@ -8,7 +8,7 @@ require (
 	github.com/google/go-cmp v0.7.0
 	github.com/googleapis/gapic-showcase v0.37.0
 	github.com/googleapis/gax-go/v2 v2.16.0
-	google.golang.org/api v0.258.0
+	google.golang.org/api v0.259.0
 	google.golang.org/genproto v0.0.0-20251222181119-0a764e51fe1b
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251222181119-0a764e51fe1b
 	google.golang.org/grpc v1.78.0
@@ -16,7 +16,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/auth v0.17.0 // indirect
+	cloud.google.com/go/auth v0.18.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.8 // indirect
 	cloud.google.com/go/compute/metadata v0.9.0 // indirect
 	cloud.google.com/go/longrunning v0.7.0 // indirect
